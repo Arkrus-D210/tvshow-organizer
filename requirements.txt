@@ -1,0 +1,4 @@
+requests~=2.26.0
+gitlab~=1.0.2
+prettytable~=2.2.1
+PyYAML~=5.4.1
